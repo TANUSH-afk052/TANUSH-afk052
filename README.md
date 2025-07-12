@@ -11,8 +11,7 @@
 
 - 🔭 Working on:  
   - 🎮 **Fruit Slice Web Game**  
-  - ⌨️ **LeadTyping** – Typing test site  
-  - 🎥 **Celebration Video Maker** – Photos + music = video  
+  - ⌨️ **LeadTyping** – Typing test site    
   - 💰 **Expense Tracker App** – GUI + charts  
   - 🏥 **Patient Data System** – SQLite + Tkinter  
 - 🌱 Currently learning: `Node.js`, `Power BI`, `React`, `better UI logic`
@@ -69,7 +68,6 @@
 - 🎮 [Fruit Slice Game](https://github.com/TANUSH-afk052/fruit-slicing-game)
 - 💰 [Expense Tracker](https://github.com/TANUSH-afk052/expense-tracker)
 - ⌨️ [LeadTyping](https://github.com/TANUSH-afk052/LeadTyping)
-- 🎥 [Celebration Video Maker](https://github.com/TANUSH-afk052/celebration-video-maker)
 - 🏥 [Patient Data System](https://github.com/TANUSH-afk052/patient-data-system)
 
 ---
