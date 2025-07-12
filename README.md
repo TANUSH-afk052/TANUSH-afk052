@@ -100,9 +100,15 @@
 
 ---
 
+## 📈 GitHub Insights
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TANUSH-afk052&label=Profile+Views&color=blue" alt="views" />
+  <img src="https://img.shields.io/github/followers/TANUSH-afk052?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/TANUSH-afk052?label=Stars&style=for-the-badge" />
 </p>
+
+[![Tanush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TANUSH-afk052&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ```
 
 ---
