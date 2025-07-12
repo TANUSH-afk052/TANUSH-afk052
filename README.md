@@ -39,10 +39,10 @@
 ## 💡 Dev Stack (Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,html,css,numpy,pandas,matplotlib,sqlite,git,github,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/PowerBI-Data%20Viz-yellow?logo=powerbi&style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-API-blueviolet?logo=openai&style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,react,html,css,numpy,pandas,matplotlib,sqlite,postgres,git,github,vscode" /><br><br>
+
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Viz-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-API-blueviolet?logo=openai&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
