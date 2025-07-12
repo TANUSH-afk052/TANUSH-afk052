@@ -83,20 +83,26 @@
 - 💰 [Expense Tracker](https://github.com/TANUSH-afk052/expense-tracker)
 - ⌨️ [LeadTyping](https://github.com/TANUSH-afk052/LeadTyping)
 - 🏥 [Patient Data System](https://github.com/TANUSH-afk052/patient-data-system)
+- 
+
+---
+## 📌 Explore More Repos
+
+🔗 [Click here to see all my projects](https://github.com/TANUSH-afk052?tab=repositories)
 
 ---
 
 ## 🔗 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TANUSH-afk052)
-[![LinkedIn](Later)
+
 
 ---
 
 ## 💬 Random Joke
 
-> “Why Do Python Devs Wear Glasses.”  
-> — "Because They Can't C"
+> Why Do Python Devs Wear Glasses. 
+> — Because They Can't C
 
 ---
 
