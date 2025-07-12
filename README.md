@@ -115,6 +115,4 @@
 
 [![Tanush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TANUSH-afk052&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```
 
----
