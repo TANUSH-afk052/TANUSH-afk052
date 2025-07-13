@@ -80,8 +80,8 @@
 ## 🚀 Projects I’m Proud Of
 
 - 🎮 [Fruit Slice Game](https://github.com/TANUSH-afk052/fruit-slicing-game)
-- 💰 [Expense Tracker](https://github.com/TANUSH-afk052/expense-tracker)
-- ⌨️ [LeadTyping](https://github.com/TANUSH-afk052/LeadTyping)
+- 💰 [Expense Tracker](https://github.com/TANUSH-afk052/ExpenseTracker)
+- ⌨️ [LeadTyping](https://github.com/TANUSH-afk052/Lead-Typing)
 - 🏥 [Patient Data System](https://github.com/TANUSH-afk052/patient-data-system)
 - 
 
