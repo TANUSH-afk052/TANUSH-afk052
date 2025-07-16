@@ -83,7 +83,7 @@
 - 💰 [Expense Tracker](https://github.com/TANUSH-afk052/ExpenseTracker)
 - ⌨️ [LeadTyping](https://github.com/TANUSH-afk052/Lead-Typing)
 - 🏥 [Patient Data System](https://github.com/TANUSH-afk052/patient-data-system)
-- 🎮 [Tetris-Game](https;//github.com/TANUSH-akf052/Tetris-Game)
+- 🎮 [Tetris-Game](https://github.com/TANUSH-afk052/Tetris-Game)
 
 ---
 ## 📌 Explore More Repos
