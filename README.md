@@ -63,9 +63,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TANUSH-afk052&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TANUSH-afk052&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANUSH-afk052&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=TANUSH-afk052&show_icons=true&theme=cobalt" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TANUSH-afk052&theme=onedark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANUSH-afk052&layout=compact&theme=prussian">
 
 </p>
 ## 📊 LEET CODE STATS
