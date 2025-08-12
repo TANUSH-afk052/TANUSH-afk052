@@ -10,10 +10,10 @@
 ## 🧠 About Me
 
 - 🔭 Working on:  
-  - 🎮 **Fruit Slice Web Game**  
+  -  **Github Profile Scorer**  
   - ⌨️ **LeadTyping** – Typing test site    
-  - 💰 **Expense Tracker App** – GUI + charts  
-  - 🏥 **Patient Data System** – SQLite + Tkinter  
+  - 💰 **React.js Project**- Basic Understanding
+  - ** A Full Stack Server Project ** -
 - 🌱 Currently learning: `Node.js`, `Power BI`, `React`, `better UI logic`
 - ⚡ I enjoy building tools that are **interactive**, **visual**, and **helpful**
 
@@ -28,9 +28,9 @@
 | Backend Learning    | Node.js |
 | GUI Development     | Tkinter |
 | Data Handling       | NumPy, Pandas |
-| Visualization       | Power BI, Matplotlib |
+| Visualization       | Power BI, Matplotlib, Seaborn |
 | AI Integration      | OpenAI API |
-| Database            | SQLite, PostgreSQL |
+| Database            | SQLite, PostgreSQL, Mongo DB |
 | Tools & Platforms   | Git, GitHub, VS Code |
 
 ---
